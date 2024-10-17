@@ -31,6 +31,12 @@
     ],
     "experiments": {
       "typedRoutes": true
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "0c72f97a-aeae-496b-a7c4-44db5216907b"
+      }
+    },
+    "owner": "wireland"
   }
 }
